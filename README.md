@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xuanhairr
-Mình là ny Dịu nè
+Mình là ny nè
 
 <!---
 xuanhairr/xuanhairr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
